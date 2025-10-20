@@ -50,8 +50,8 @@ The goal is to *detect and classify* the gesture shown by the user in real-time 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SignLanguageIdentifier.git
-cd SignLanguageIdentifier
+git clone https://github.com/NajiRami/Sign-Language-Identifier.git
+cd Sign-Language-Identifier
 python -m venv venv
 source venv/bin/activate      # On Linux/Mac
 venv\Scripts\activate         # On Windows
